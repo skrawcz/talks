@@ -15,3 +15,7 @@ Title:
 > “Deployment for free”: removing the need to write model deployment code at Stitch Fix
 
 * [Slides](https://stanford-cs329s.github.io/slides/cs329s_12_stefan_model_deploymet_stitch_fix.pdf)
+
+# Blogs
+
+[Hamilton on TDS](https://towardsdatascience.com/functions-dags-introducing-hamilton-a-microframework-for-dataframe-generation-more-8e34b84efc1d)

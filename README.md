@@ -2,8 +2,8 @@
 Slides from my talks
 
 ## AICamp May 2022
-[AICamp Hamilton recording](https://www.youtube.com/watch?v=PDGIt37dov8)
-[AICamp Hamilton Slides](https://github.com/skrawcz/talks/files/8691633/AICamp.Hamilton.Presentation.pdf)
+* [AICamp Hamilton recording](https://www.youtube.com/watch?v=PDGIt37dov8)
+* [AICamp Hamilton Slides](https://github.com/skrawcz/talks/files/8691633/AICamp.Hamilton.Presentation.pdf)
 
 
 ## Apply(Meetup) February 2022

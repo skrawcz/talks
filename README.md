@@ -2,6 +2,8 @@
 Slides from my talks
 
 ## AICamp May 2022
+Title:
+> Hamilton: a python micro-framework for data / feature engineering at Stitch Fix
 * [AICamp Hamilton recording](https://www.youtube.com/watch?v=PDGIt37dov8)
 * [AICamp Hamilton Slides](https://github.com/skrawcz/talks/files/8691633/AICamp.Hamilton.Presentation.pdf)
 

@@ -1,6 +1,10 @@
 # talks
 Slides from my talks
 
+## AICamp May 2022
+[AICamp Hamilton recording](https://www.youtube.com/watch?v=PDGIt37dov8)
+[AICamp Hamilton Slides](https://github.com/skrawcz/talks/files/8691633/AICamp.Hamilton.Presentation.pdf)
+
 
 ## Apply(Meetup) February 2022
 Title: 
@@ -19,3 +23,4 @@ Title:
 # Blogs
 
 [Hamilton on TDS](https://towardsdatascience.com/functions-dags-introducing-hamilton-a-microframework-for-dataframe-generation-more-8e34b84efc1d)
+

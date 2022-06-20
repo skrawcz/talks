@@ -51,5 +51,7 @@ Title: Why you should be using structured logs
 * [Hamilton + Pandas in five minutes](https://towardsdatascience.com/how-to-use-hamilton-with-pandas-in-5-minutes-89f63e5af8f5)
 * [Iterating with Hamilton in a Notebook](https://towardsdatascience.com/how-to-use-hamilton-with-pandas-in-5-minutes-89f63e5af8f5)
 
+# Podcasts
 
-
+* [MLOps dla 100 data scientistów](https://nieliniowy.pl/mlops-dla-100-data-scientistow-stefan-krawczyk-stitch-fix/) (in Polish) April 2022.
+* [Aggressively Helpful Platform teams](https://www.youtube.com/watch?v=az8lXG9v4uo) August 2021

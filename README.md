@@ -24,24 +24,28 @@ Title:
 
 
 ## SF Python Meetup December 2021
-Title: Hamilton an open source micro framework for creating dataframes
+Title: 
+> Hamilton an open source micro framework for creating dataframes
 * [Recording](https://www.youtube.com/watch?v=_XUYfwougz4)
 * [Slides](https://github.com/skrawcz/talks/files/8944605/Python.Meetup.Dec.2021.-.Hamilton_.an.open.source.micro.framework.for.creating.dataframes.pdf)
 
 
 ## MLConf 2021
-Title: "Deployment for free": removing the need to write model deployment code at Stitch Fix
+Title: 
+> "Deployment for free": removing the need to write model deployment code at Stitch Fix
 * Recording N/A
 * [Slides](https://github.com/skrawcz/talks/files/8944598/final-deploymentforfreeremovingtheneedtowritemodeldeploymentcodeatstitchfix-210429181515.pdf)
 
 
 ## Kafka Summit Europe 2021
-Title: Enabling Data Scientists to easily create and own Kafka Consumers
+Title: 
+> Enabling Data Scientists to easily create and own Kafka Consumers
 * [Recording](https://www.confluent.io/events/kafka-summit-europe-2021/enabling-data-scientists-to-easily-create-and-own-kafka-consumers/])
 * [Slides](https://github.com/skrawcz/talks/files/8944572/enablingdatascientiststoeasilycreateandownkafkaconsumers2-210512155416.pdf)
 
 ## PyBay 2020
-Title: Why you should be using structured logs
+Title: 
+> Why you should be using structured logs
 * [Recording](https://www.youtube.com/watch?v=4Y3VdS2pLF4&t=1s&ab_channel=SFPython)
 * [Slides](https://github.com/skrawcz/talks/files/8944578/stitchfixstefankrawczykwhyyoushouldbeusingstructuredlogs-190818231512.pdf)
 

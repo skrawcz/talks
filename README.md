@@ -30,10 +30,10 @@ Title:
 * [Slides](https://github.com/skrawcz/talks/files/8944605/Python.Meetup.Dec.2021.-.Hamilton_.an.open.source.micro.framework.for.creating.dataframes.pdf)
 
 
-## MLConf 2021
+## MLConf 2021 / MLOps Salon 2021
 Title: 
 > "Deployment for free": removing the need to write model deployment code at Stitch Fix
-* Recording N/A
+* [Recording](https://www.youtube.com/watch?v=DDclFWzHfTk&t=14s&ab_channel=Verta)
 * [Slides](https://github.com/skrawcz/talks/files/8944598/final-deploymentforfreeremovingtheneedtowritemodeldeploymentcodeatstitchfix-210429181515.pdf)
 
 

@@ -1,6 +1,12 @@
 # talks
 Slides from my talks
 
+## [MLOPsWorld Bay Area](https://mlopsworld.com/bayarea/) July 2022
+Title:
+> Hamilton: A Python Micro-Framework for Data / Feature Engineering
+* [Slides](https://github.com/skrawcz/talks/files/9213924/Hamilton_.A.Python.Micro-Framework.for.Data._.Feature.Engineering.pdf)
+
+
 ## AICamp May 2022
 Title:
 > Hamilton: a python micro-framework for data / feature engineering at Stitch Fix

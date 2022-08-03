@@ -66,5 +66,6 @@ Title:
 
 # Podcasts
 
+* [S01 E08 - MLOps Week 8: The MLOps Mindset with Stefan Krawczyk](https://rss.com/podcasts/mlops-weekly/571949/)
 * [MLOps dla 100 data scientistów](https://nieliniowy.pl/mlops-dla-100-data-scientistow-stefan-krawczyk-stitch-fix/) (in Polish) April 2022.
 * [Aggressively Helpful Platform teams](https://www.youtube.com/watch?v=az8lXG9v4uo) August 2021

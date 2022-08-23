@@ -2,6 +2,11 @@ Find talks, blogs, and podcasts here!
 
 # talks
 Slides from my talks
+## Ray Summit 22
+Title:
+> Scalable feature engineering with Hamilton on Ray
+* [Slides](https://github.com/skrawcz/talks/files/9411082/Submitted.Slides.-.Ray.Summit_.Scalable.feature.engineering.with.Hamilton.on.Ray.pdf)
+
 
 ## [MLOPsWorld Bay Area](https://mlopsworld.com/bayarea/) July 2022
 Title:

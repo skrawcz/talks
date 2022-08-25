@@ -2,7 +2,14 @@ Find talks, blogs, and podcasts here!
 
 # talks
 Slides from my talks
-## Ray Summit 22
+
+## [Scalable Pandas Meetup - August 2022](https://ponder.us5.list-manage.com/subscribe?utm=stefankrawczyk)
+Title: 
+> Hamilton: A Python Micro-Framework for tidy scalable Pandas
+* [Slides](https://github.com/skrawcz/talks/files/9428705/Hamilton.%40.Ponder.Pandas.meetup.pdf)
+* [Video](https://www.youtube.com/watch?v=m_rjCzxQj4c&ab_channel=Ponder)
+
+## Ray Summit August 2022
 Title:
 > Scalable feature engineering with Hamilton on Ray
 * [Slides](https://github.com/skrawcz/talks/files/9411082/Submitted.Slides.-.Ray.Summit_.Scalable.feature.engineering.with.Hamilton.on.Ray.pdf)

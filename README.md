@@ -3,6 +3,24 @@ Find talks, blogs, and podcasts here!
 # talks
 Slides from my talks
 
+## [VLDB 2022](https://vldb.org/2022/)
+### [DEco - First International Workshop on Data Ecosystems](https://dbis.rwth-aachen.de/DEco22/)
+Title:
+> Hamilton: enabling software engineering best practices for data transformations via generalized dataflow graphs
+
+Angle: Software engineering is important to think about when managing a data ecosystem.
+* [Slides](https://github.com/skrawcz/talks/files/9550914/Submitted.-.DEco.2022_.Hamilton_.enabling.software.engineering.best.practices.for.data.transformations.via.generalized.dataflow.graphs.1.pdf)
+* Will publish paper once proceedings are up
+
+### [CDMS - First International Workshop on Composable Data Management Systems](https://cdmsworkshop.github.io/2022/)
+Title:
+> Hamilton: a modular open source declarative paradigm for high level modeling of dataflows
+
+Angle: Interesting UX that enables a platform team to compose & modularize not only a dataflow, but subsystems.
+* [Slides](https://github.com/skrawcz/talks/files/9550939/CDMS.2022.-.Hamilton_.a.modular.open.source.declarative.paradigm.for.high.level.modeling.of.dataflows.1.pdf)
+* Will publish paper once proceedings are up
+
+
 ## [Scalable Pandas Meetup - August 2022](https://ponder.us5.list-manage.com/subscribe?utm=stefankrawczyk)
 Title: 
 > Hamilton: A Python Micro-Framework for tidy scalable Pandas

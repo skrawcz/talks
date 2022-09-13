@@ -18,7 +18,7 @@ Title:
 
 Angle: Interesting UX that enables a platform team to compose & modularize not only a dataflow, but subsystems.
 * [Slides](https://github.com/skrawcz/talks/files/9550939/CDMS.2022.-.Hamilton_.a.modular.open.source.declarative.paradigm.for.high.level.modeling.of.dataflows.1.pdf)
-* Will publish paper once proceedings are up
+* [Paper](https://cdmsworkshop.github.io/2022/Proceedings/ShortPapers/Paper6_StefanKrawczyk.pdf)
 
 
 ## [Scalable Pandas Meetup - August 2022](https://ponder.us5.list-manage.com/subscribe?utm=stefankrawczyk)

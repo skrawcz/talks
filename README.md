@@ -87,6 +87,10 @@ Title:
 * [Recording](https://www.youtube.com/watch?v=4Y3VdS2pLF4&t=1s&ab_channel=SFPython)
 * [Slides](https://github.com/skrawcz/talks/files/8944578/stitchfixstefankrawczykwhyyoushouldbeusingstructuredlogs-190818231512.pdf)
 
+# Google Scholar
+[My google scholar page](https://scholar.google.com/citations?user=2d_37dEAAAAJ).
+
+
 # Blogs
 
 * [Hamilton backstory and intro post on TDS](https://towardsdatascience.com/functions-dags-introducing-hamilton-a-microframework-for-dataframe-generation-more-8e34b84efc1d)

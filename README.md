@@ -1,4 +1,4 @@
-Find talks, blogs, and podcasts here!
+Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 
 # talks
 Slides from my talks

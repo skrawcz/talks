@@ -3,6 +3,11 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## [Feature Store Summit 2022](https://www.featurestoresummit.com/)
+Title:
+> Hamilton: an open source, declarative, micro-framework for clean & robust feature transform code in Python
+* [Slides](https://github.com/skrawcz/talks/files/9759661/FS.Summit.2022.-.Hamilton.pdf)
+
 ## [VLDB 2022](https://vldb.org/2022/)
 ### [DEco - First International Workshop on Data Ecosystems](https://dbis.rwth-aachen.de/DEco22/)
 Title:

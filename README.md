@@ -99,6 +99,8 @@ Title:
 # Blogs
 
 * [What I learned building platforms at Stitch Fix](https://stefankrawczyk.substack.com/p/what-i-learned-building-platforms)
+* [Configuration Driven ML Pipelines at Stitch Fix](https://multithreaded.stitchfix.com/blog/2022/08/02/configuration-driven-ml-pipelines/)
+* [Deployment for Free -- A Machine Learning Platform for Stitch Fix's Data Scientists](https://multithreaded.stitchfix.com/blog/2022/07/14/deployment-for-free/)
 * [Hamilton backstory and intro post on TDS](https://towardsdatascience.com/functions-dags-introducing-hamilton-a-microframework-for-dataframe-generation-more-8e34b84efc1d)
 * [Hamilton + Pandas in five minutes](https://towardsdatascience.com/how-to-use-hamilton-with-pandas-in-5-minutes-89f63e5af8f5)
 * [Iterating with Hamilton in a Notebook](https://towardsdatascience.com/how-to-use-hamilton-with-pandas-in-5-minutes-89f63e5af8f5)

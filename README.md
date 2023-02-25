@@ -3,6 +3,11 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## AI Camp Meetup San Jose January 2023
+Title:
+> Hamilton: Natively bringing software engineering best practices to python data transformations
+* [Slides](https://github.com/skrawcz/talks/files/10830349/Hamilton_.Natively.bringing.software.engineering.best.practices.to.python.data.transformations.-.January.2023.pdf)
+
 ## [Feature Store Summit October 2022](https://www.featurestoresummit.com/)
 Title:
 > Hamilton: an open source, declarative, micro-framework for clean & robust feature transform code in Python

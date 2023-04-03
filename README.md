@@ -101,8 +101,10 @@ Title:
 [My google scholar page](https://scholar.google.com/citations?user=2d_37dEAAAAJ).
 
 
-# Blogs
+# Blogs / Write ups
 
+* [AMA with Stefan Krawczyk @ Evidently AI](https://www.evidentlyai.com/blog/ama-stefan-krawczyk)
+* [True ML Talks #2 - ML Workflow @ Stitch Fix](https://blog.truefoundry.com/machinelearning-workflow-stitchfix/)
 * [What I learned building platforms at Stitch Fix](https://stefankrawczyk.substack.com/p/what-i-learned-building-platforms)
 * [Configuration Driven ML Pipelines at Stitch Fix](https://multithreaded.stitchfix.com/blog/2022/08/02/configuration-driven-ml-pipelines/)
 * [Deployment for Free -- A Machine Learning Platform for Stitch Fix's Data Scientists](https://multithreaded.stitchfix.com/blog/2022/07/14/deployment-for-free/)
@@ -113,6 +115,7 @@ Title:
 
 # Podcasts
 
+* [True ML Talks #2 - ML Workflow @ Stitch Fix](https://www.youtube.com/watch?v=TbP5G188kX8&t=2s) 
 * [S01 E08 - MLOps Week 8: The MLOps Mindset with Stefan Krawczyk](https://rss.com/podcasts/mlops-weekly/571949/) August 2022.
 * [MLOps dla 100 data scientistów](https://nieliniowy.pl/mlops-dla-100-data-scientistow-stefan-krawczyk-stitch-fix/) (in Polish) April 2022.
 * [Aggressively Helpful Platform teams](https://www.youtube.com/watch?v=az8lXG9v4uo) August 2021

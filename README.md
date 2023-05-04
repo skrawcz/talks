@@ -3,6 +3,11 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## PyData Seattle 2023
+Title:
+> Lightweight Lineage with Hamilton
+* [Slides](https://github.com/skrawcz/talks/files/11399972/PyData-Seattl-Lightning-Talk-2023-Lighweight-Lineage-with-Hamilton.pdf)
+
 ## AI Camp Meetup San Jose January 2023
 Title:
 > Hamilton: Natively bringing software engineering best practices to python data transformations

@@ -3,6 +3,18 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## [Budapest ML Forum June 2023](https://budapestml.hu/2023/en/)
+Title:
+> Feature Engineering with Hamilton: Portability & Lineage
+* [Slides](https://github.com/skrawcz/talks/files/11690901/Stefan_Krawczyk_BudapestTalkJune2023_FeatureEngineeringwith.Hamilton_Portability.Lineage.pdf)
+
+## Manchest PyData Meetup May/June 2023
+
+Title:
+> British Cycling Data Platform in Python
+* [Slides](https://github.com/skrawcz/talks/files/11690910/PyData.British.Cycling.7.June.2023.pdf)
+Co-presented with Peter Robinson, and Murray Tait.
+
 ## PyData Seattle 2023
 Title:
 > Lightweight Lineage with Hamilton

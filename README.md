@@ -12,7 +12,8 @@ Title:
 
 Title:
 > British Cycling Data Platform in Python
-* [Slides](https://github.com/skrawcz/talks/files/11690910/PyData.British.Cycling.7.June.2023.pdf)
+* [Slides](https://github.com/skrawcz/talks/files/11708559/PyData.British.Cycling.7.June.2023.pdf)
+
 Co-presented with Peter Robinson, and Murray Tait.
 
 ## PyData Seattle 2023

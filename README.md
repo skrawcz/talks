@@ -3,6 +3,12 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## LLM Avalanche
+Title:
+> Hamilton: an OS tool to add to your LLM App toolbelt
+* [Slides](https://github.com/skrawcz/talks/files/11899349/Hamilton_.an.OS.tool.to.add.to.your.LLM.App.toolbelt.pdf)
+
+
 ## [Budapest ML Forum June 2023](https://budapestml.hu/2023/en/)
 Title:
 > Feature Engineering with Hamilton: Portability & Lineage
@@ -12,7 +18,7 @@ Title:
 
 Title:
 > British Cycling Data Platform in Python
-* [Slides](https://github.com/skrawcz/talks/files/11708559/PyData.British.Cycling.7.June.2023.pdf)
+* [Slides](https://github.com/skrawcz/talks/files/11899331/PyData.British.Cycling.7.June.2023.pdf)
 
 Co-presented with Peter Robinson, and Murray Tait.
 

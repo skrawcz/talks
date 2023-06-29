@@ -14,7 +14,7 @@ Title:
 > Feature Engineering with Hamilton: Portability & Lineage
 * [Slides](https://github.com/skrawcz/talks/files/11690901/Stefan_Krawczyk_BudapestTalkJune2023_FeatureEngineeringwith.Hamilton_Portability.Lineage.pdf)
 
-## Manchest PyData Meetup May/June 2023
+## Manchester PyData Meetup May/June 2023
 
 Title:
 > British Cycling Data Platform in Python

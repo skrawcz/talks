@@ -3,6 +3,12 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## Scipy 2023 Lightning Talk
+Title:
+> Hamilton: ditch procedural scripts in favor of declarative functions
+* [slides](https://github.com/skrawcz/talks/files/12060167/SciPy.Austin.Lightning.Talk.2023.pdf)
+
+
 ## LLM Avalanche
 Title:
 > Hamilton: an OS tool to add to your LLM App toolbelt

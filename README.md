@@ -3,6 +3,12 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## MDSFest'23 
+Title:
+> dbt + Hamilton: Enabling you to maintain complex Python within dbt models
+* [Slides](https://github.com/skrawcz/talks/files/12431755/dbt.%2B.Hamilton_.Enabling.you.to.maintain.complex.python.within.dbt.models.pdf)
+
+
 ## Scipy 2023 Lightning Talk
 Title:
 > Hamilton: ditch procedural scripts in favor of declarative functions

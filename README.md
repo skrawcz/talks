@@ -3,6 +3,14 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## [Bay Area Python Interest Group (BAYPIGgies) September Meetup 2023](https://www.meetup.com/baypiggies/events/296283989/)
+Title:
+> Hamilton: Natively bringing software engineering best practices to python data transformations
+* [Slides](https://github.com/skrawcz/talks/files/12785978/BayPIGgies_.Hamilton.Talk.pdf)
+
+
+
+
 ## MDSFest'23 
 Title:
 > dbt + Hamilton: Enabling you to maintain complex Python within dbt models

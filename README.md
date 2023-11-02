@@ -3,6 +3,13 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## MLOps World/GenAI Summit 2023, Austin, Texas
+Title:
+> Talk: Getting Higher ROI on MLOps Initiatives: Five Lessons Learned While Building out The MLOps Platform for 100+ Data Scientists
+* [Slides](https://github.com/skrawcz/talks/files/13243438/MLOpsWorld.Talk.pdf)
+
+
+
 ## [Bay Area Python Interest Group (BAYPIGgies) September Meetup 2023](https://www.meetup.com/baypiggies/events/296283989/)
 Title:
 > Hamilton: Natively bringing software engineering best practices to python data transformations

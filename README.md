@@ -3,6 +3,13 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## h2o.ai GenAI Summit November 2023
+Title:
+> Talk: LLMOps: Match report from the top of the 5th
+* [Slides](https://github.com/skrawcz/talks/files/13324570/H20.ai-LLMOpsTalk-SUBMITTED_FINAL_.pdf)
+
+
+
 ## MLOps World/GenAI Summit 2023, Austin, Texas
 Title:
 > Talk: Getting Higher ROI on MLOps Initiatives: Five Lessons Learned While Building out The MLOps Platform for 100+ Data Scientists

@@ -3,6 +3,18 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## AICamp End of Year @ SF December 2023
+Title: 
+> Why you should build your GenAI/LLM apps using Hamilton
+* [Slides](https://github.com/skrawcz/talks/files/13666470/Why.you.should.build.your.GenAI_LLM.apps.using.Hamilton.pdf)
+
+
+## PyData Global December 2023
+Title:
+> Bridging Classic ML Pipelines with the World of LLMs
+# [Slides](https://github.com/skrawcz/talks/files/13666479/Bridging.Classic.ML.Pipelines.with.the.World.of.LLMs.1.pdf)
+Note: this was jointly presented with Elijah ben Izzy.
+
 ## h2o.ai GenAI Summit November 2023
 Title:
 > Talk: LLMOps: Match report from the top of the 5th

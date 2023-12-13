@@ -12,7 +12,7 @@ Title:
 ## PyData Global December 2023
 Title:
 > Bridging Classic ML Pipelines with the World of LLMs
-# [Slides](https://github.com/skrawcz/talks/files/13666479/Bridging.Classic.ML.Pipelines.with.the.World.of.LLMs.1.pdf)
+* [Slides](https://github.com/skrawcz/talks/files/13666479/Bridging.Classic.ML.Pipelines.with.the.World.of.LLMs.1.pdf)
 Note: this was jointly presented with Elijah ben Izzy.
 
 ## h2o.ai GenAI Summit November 2023

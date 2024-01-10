@@ -35,12 +35,11 @@ Title:
 * [Slides](https://github.com/skrawcz/talks/files/12785978/BayPIGgies_.Hamilton.Talk.pdf)
 
 
-
-
 ## MDSFest'23 
 Title:
 > dbt + Hamilton: Enabling you to maintain complex Python within dbt models
 * [Slides](https://github.com/skrawcz/talks/files/12431755/dbt.%2B.Hamilton_.Enabling.you.to.maintain.complex.python.within.dbt.models.pdf)
+* [Recording](https://www.youtube.com/watch?v=ZM-kM8DqlaQ&t=1250s)
 
 
 ## Scipy 2023 Lightning Talk

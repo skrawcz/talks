@@ -15,6 +15,12 @@ Title:
 * [Slides](https://github.com/skrawcz/talks/files/13666479/Bridging.Classic.ML.Pipelines.with.the.World.of.LLMs.1.pdf)
 Note: this was jointly presented with Elijah ben Izzy.
 
+## Scale by the Bay November 2023
+Title:
+> Hamilton:Natively bringing SWE best practices to python data transformations
+* [Slides](https://github.com/skrawcz/talks/files/13969784/Scale.By.The.Bay.-.Hamilton_.Natively.bringing.SWE.best.practices.to.python.data.transformations.pdf)
+* [Recording](https://www.youtube.com/watch?v=gK4-6X0h7PU)
+
 ## h2o.ai GenAI Summit November 2023
 Title:
 > Talk: LLMOps: Match report from the top of the 5th

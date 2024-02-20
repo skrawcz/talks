@@ -3,6 +3,12 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## Hamilton February 2024 Meetup 
+Title:
+> General meet up slides
+* [Slides](https://github.com/skrawcz/talks/files/14351139/Hamilton.February.2024.Meetup.pdf)
+
+
 ## AICamp End of Year @ SF December 2023
 Title: 
 > Why you should build your GenAI/LLM apps using Hamilton

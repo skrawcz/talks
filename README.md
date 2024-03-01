@@ -40,6 +40,7 @@ Title:
 Title:
 > Talk: Getting Higher ROI on MLOps Initiatives: Five Lessons Learned While Building out The MLOps Platform for 100+ Data Scientists
 * [Slides](https://github.com/skrawcz/talks/files/13243438/MLOpsWorld.Talk.pdf)
+* [Recording](https://www.youtube.com/watch?v=GH51aI3krW4&list=PLlcxuf1qTrwC-42aQYJozWl4iVEq9Ct2l)
 
 
 

@@ -7,12 +7,14 @@ Slides from my talks
 Title:
 > General meet up slides
 * [Slides](https://github.com/skrawcz/talks/files/14351139/Hamilton.February.2024.Meetup.pdf)
+* [Meet-up Recording](https://youtu.be/ks672Lm0CJo)
 
 
 ## AICamp End of Year @ SF December 2023
 Title: 
 > Why you should build your GenAI/LLM apps using Hamilton
 * [Slides](https://github.com/skrawcz/talks/files/13666470/Why.you.should.build.your.GenAI_LLM.apps.using.Hamilton.pdf)
+* [Recording](https://youtu.be/IwWixrjhkZU?si=1siwtJ_dGvLfBnaB&t=7577)
 
 
 ## PyData Global December 2023

@@ -3,6 +3,13 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## Women Who Code: Data Science March Event
+Title:
+> Feature Engineering with Hamilton
+* [Slides](https://github.com/skrawcz/talks/files/14592210/Women.Who.Code.DS_.Feature.Engineering.pdf)
+* Recording will be posted when available.
+
+
 ## Hamilton February 2024 Meetup 
 Title:
 > General meet up slides

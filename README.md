@@ -7,6 +7,7 @@ Slides from my talks
 Title:
 > 
 * [Slides](https://github.com/skrawcz/talks/files/15003705/Hamilton.April.2024.Meetup.pdf)
+* [Thierry's Guest slides](https://github.com/skrawcz/talks/files/15003781/2024-04_meetup_experiment.pdf)
 * [Meet-up Recording](https://youtu.be/_-yXfnBtrlg)
 
 

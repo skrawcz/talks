@@ -3,6 +3,13 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## Hamilton April 2024 Meetup
+Title:
+> 
+* [Slides](https://github.com/skrawcz/talks/files/15003705/Hamilton.April.2024.Meetup.pdf)
+* [Meet-up Recording](https://youtu.be/_-yXfnBtrlg)
+
+
 ## Hamilton March 2024 Meetup
 Title:
 > General Meet up slides

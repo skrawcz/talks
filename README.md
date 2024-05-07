@@ -3,9 +3,16 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## Maven Lightning Session on Building a document processing pipeline for RAG Systems
+Title:
+> Build a document processing pipeline for RAG Systems
+* [Slides](https://github.com/skrawcz/talks/files/15239751/May2024-Build.a.Document.Processing.Pipeline.for.RAG.Systems.pdf)
+
+
+
 ## Hamilton April 2024 Meetup
 Title:
-> 
+> General Meetup Slides
 * [Slides](https://github.com/skrawcz/talks/files/15003705/Hamilton.April.2024.Meetup.pdf)
 * [Thierry's Guest slides](https://github.com/skrawcz/talks/files/15003781/2024-04_meetup_experiment.pdf)
 * [Meet-up Recording](https://youtu.be/_-yXfnBtrlg)

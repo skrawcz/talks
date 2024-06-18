@@ -3,6 +3,13 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## Hamilton June 2024 Meetup
+Title:
+> General Meetup Slides
+* [Slides](https://github.com/user-attachments/files/15893255/Hamilton.June.2024.Meetup.pdf)
+* [Meet-up Recording](https://youtu.be/SsrIIM1ed4w)
+
+
 ## Maven Lightning Session on Building a document processing pipeline for RAG Systems
 Title:
 > Build a document processing pipeline for RAG Systems

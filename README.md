@@ -3,6 +3,14 @@ Find [talks](#talks), [blogs](#blogs), and [podcasts](#podcasts) here!
 # talks
 Slides from my talks
 
+## Hamilton October 2024 Meetup
+Title:
+> General Meetup Slides
+* [Slides](https://github.com/user-attachments/files/17406799/Hamilton.October.2024.Meetup.pdf)
+* [Meet-up Recording TODO]()
+
+
+
 ## Hamilton August 2024 Meetup
 Title:
 > General Meetup Slides

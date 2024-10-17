@@ -7,7 +7,7 @@ Slides from my talks
 Title:
 > General Meetup Slides
 * [Slides](https://github.com/user-attachments/files/17406799/Hamilton.October.2024.Meetup.pdf)
-* [Meet-up Recording TODO]()
+* [Meet-up Recording](https://youtu.be/SMT72BHtM_w?feature=shared)
 
 
 
